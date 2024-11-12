@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify_RadarBox_Flight Statistics_Dashboard</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0726a736-7aa3-4922-a44c-7d39b203dfc7</testCaseGuid>
+</TestCaseEntity>
